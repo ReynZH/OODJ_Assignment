@@ -1,8 +1,8 @@
 **Assessment Feedback System (AFS)**
 
 About the Project
-The Assessment Feedback System (AFS) is a comprehensive Java desktop application developed to streamline academic assessments, grading, and feedback delivery. It replaces manual record-keeping with a digital solution, ensuring data accuracy, timely feedback, and structured grading based on pre-defined mark allocations. 
-This project was developed as part of the Object-Oriented Development with Java (OODJ) coursework at Asia Pacific University (A.P.U.).
+
+The Assessment Feedback System (AFS) is a comprehensive Java desktop application developed to streamline academic assessments, grading, and feedback delivery. It replaces manual record-keeping with a digital solution, ensuring data accuracy, timely feedback, and structured grading based on pre-defined mark allocations. This project was developed as part of the Object-Oriented Development with Java (OODJ) coursework at Asia Pacific University (A.P.U.).
 
 Key Features
 The system supports four distinct user roles, each with specific access rights and functionalities:

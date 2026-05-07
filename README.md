@@ -14,14 +14,11 @@ Academic Leaders: Oversee modules, assign lecturers to specific subjects, and ge
 Administrative Staff: Handle system configuration, manage user registration (Create, Read, Update, Delete), and define the university grading system.
 
 Tech Stack
-
 Language: Java 
-
 UI Framework: JavaSwing & JavaAWT
-
 Storage: Text Files
-
 IDE:NetBeans
+
 
 Object-Oriented Programming Concepts Applied
 
